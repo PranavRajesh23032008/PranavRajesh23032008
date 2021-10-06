@@ -15,7 +15,7 @@
 
 
 <p align=''><img src="https://github-readme-stats.vercel.app/api?username=PranavRajesh23032008&amp;show_icons=true&amp;theme=midnight-purple" alt="GitHub Stats"> 
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavRajesh23032008&amp;show_icons=true&amp;theme=midnight-purple" alt="Most Used language">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavRajesh23032008&amp;show_icons=true&amp;theme=midnight-purple" alt="Most Used language">
 
 
 
