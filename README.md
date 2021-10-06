@@ -5,7 +5,7 @@
 </p>
 
 <p>    
-- 🔭 I’m currently working on Backend Development <br>
+- 🔭 I’m currently working on React/NextJS <br>
 - 🌱 I’m currently learning MERN and Strapi🔥 <br>
 - 📫 How to reach me: pranav@rckr.com and <a href="https://www.instagram.com/pranavrajesh08/" >Instagram</a> <br>
 - 😇 I'm also currently looking for help in Full Stack development <br>
